@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="Akash Sarkar | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+[<img align="left" alt="Akash Sarkar | LinkedIn" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" />][linkedin]
 
 <br />
 
