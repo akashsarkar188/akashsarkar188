@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-<img align="left" alt="Android Studio" width="50px" height="50px" hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" /> 
-<img align="left" alt="Java" width="40px" height="40px" hspace="10" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" />
-<img align="left" alt="Kotlin" width="40px" height="40px" hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Kotlin-logo.png" /> 
-<img align="left" alt="PHP" width="40px" height="40px" hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" /> 
+<img align="left" alt="Android Studio" width="50px" height="50px" hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/1200px-Android_Studio_icon_%282023%29.svg.png" /> 
+<img align="left" alt="Java" width="40px" height="40px" hspace="10" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
+<img align="left" alt="Kotlin" width="40px" height="40px" hspace="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" /> 
 <img align="left" alt="Visual Studio Code" width="40px" height="40px" hspace="10" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 [linkedin]: https://www.linkedin.com/in/akashsarkar188/
